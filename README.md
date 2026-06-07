@@ -1,2 +1,2 @@
 # practice
-Practice questions
+This repo contains practice questions
